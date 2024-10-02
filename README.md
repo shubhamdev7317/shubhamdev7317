@@ -21,7 +21,7 @@ I’m looking to collaborate on:
 - Code reviews and mentorship opportunities
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:shubhamdev7317@gmail.com)
+- **Email**: [shubhamdev7317@gmail.com](mailto:shubhamdev7317@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/subhash-sagar-singh-817882321)
 
 
